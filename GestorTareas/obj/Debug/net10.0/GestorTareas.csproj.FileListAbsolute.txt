@@ -1,0 +1,14 @@
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\bin\Debug\net10.0\GestorTareas.exe
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\bin\Debug\net10.0\GestorTareas.deps.json
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\bin\Debug\net10.0\GestorTareas.runtimeconfig.json
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\bin\Debug\net10.0\GestorTareas.dll
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\bin\Debug\net10.0\GestorTareas.pdb
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\GestorTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\GestorTareas.AssemblyInfoInputs.cache
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\GestorTareas.AssemblyInfo.cs
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\GestorTareas.dll
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\refint\GestorTareas.dll
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\GestorTareas.pdb
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\GestorTareas.genruntimeconfig.cache
+C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\ref\GestorTareas.dll
