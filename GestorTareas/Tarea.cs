@@ -5,11 +5,11 @@ public enum EstadoTarea { Pendiente, EnProgreso, Completada, Cancelada }
 public class Tarea
 {
     public Guid Id { get; }
-    public string Titulo { get; }
-    public string Descripcion { get; }
+    public string Titulo { get; private set; }
+    public string Descripcion { get; private set; }
     public DateTime FechaCreacion { get; }
-    public DateTime FechaLimite { get; }
-    public PrioridadTarea Prioridad { get; }
+    public DateTime FechaLimite { get; private set; }
+    public PrioridadTarea Prioridad { get; private set; }
 
     private EstadoTarea estado;
     public EstadoTarea Estado => estado;
@@ -18,7 +18,7 @@ public class Tarea
 
     // Constructor
     public Tarea(string titulo, DateTime fechaLimite,
-        PrioridadTarea prioridad, string descripcion = null)
+        PrioridadTarea prioridad, string? descripcion = null)
     {
         if (string.IsNullOrWhiteSpace(titulo))
             throw new ArgumentException("El titulo es obligatorio", nameof(titulo));
@@ -83,6 +83,25 @@ public class Tarea
             motivoCancelacion = "Sin especificar";
         }
 
+        return true;
+    }
+
+    public bool Actualizar(string titulo, DateTime fechaLimite,
+        PrioridadTarea prioridad, string? descripcion = null)
+    {
+        if (estado == EstadoTarea.Completada || estado == EstadoTarea.Cancelada)
+            return false;
+
+        if (string.IsNullOrWhiteSpace(titulo))
+            throw new ArgumentException("El titulo es obligatorio", nameof(titulo));
+
+        if (fechaLimite < DateTime.Now.Date)
+            throw new ArgumentException("La fecha limite no puede ser pasada", nameof(fechaLimite));
+
+        Titulo = titulo.Trim();
+        FechaLimite = fechaLimite.Date;
+        Prioridad = prioridad;
+        Descripcion = descripcion?.Trim() ?? string.Empty;
         return true;
     }
 

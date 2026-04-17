@@ -12,3 +12,18 @@ C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\refint\G
 C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\GestorTareas.pdb
 C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\GestorTareas.genruntimeconfig.cache
 C:\Users\oceano\Desktop\Gestor de Tareas\GestorTareas\obj\Debug\net10.0\ref\GestorTareas.dll
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\bin\Debug\net10.0\GestorTareas.exe
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\bin\Debug\net10.0\GestorTareas.deps.json
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\bin\Debug\net10.0\GestorTareas.runtimeconfig.json
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\bin\Debug\net10.0\GestorTareas.dll
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\bin\Debug\net10.0\GestorTareas.pdb
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\GestorTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\GestorTareas.AssemblyInfoInputs.cache
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\GestorTareas.AssemblyInfo.cs
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\GestorTareas.sourcelink.json
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\GestorTareas.dll
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\refint\GestorTareas.dll
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\GestorTareas.pdb
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\GestorTareas.genruntimeconfig.cache
+C:\Users\ompzg\Downloads\Gestor-de-Tarea-repo\GestorTareas\obj\Debug\net10.0\ref\GestorTareas.dll
